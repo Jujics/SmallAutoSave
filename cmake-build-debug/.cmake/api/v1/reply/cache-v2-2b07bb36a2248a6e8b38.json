@@ -655,11 +655,11 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "Install path prefix, prepended onto install directories."
+					"value" : "Installation prefix"
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/untitled"
+			"value" : "C:/Users/basti/untitled_install"
 		},
 		{
 			"name" : "CMAKE_LINKER",

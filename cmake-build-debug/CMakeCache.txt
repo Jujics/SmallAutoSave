@@ -112,8 +112,8 @@ CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=C:/Users/basti/CLionProjects/untitled/cm
 //Convert GNU import libraries to MS format (requires Visual Studio)
 CMAKE_GNUtoMS:BOOL=OFF
 
-//Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/untitled
+//Installation prefix
+CMAKE_INSTALL_PREFIX:PATH=C:/Users/basti/untitled_install
 
 //Path to a program.
 CMAKE_LINKER:FILEPATH=C:/Users/basti/AppData/Local/Programs/CLion/bin/mingw/bin/ld.exe
